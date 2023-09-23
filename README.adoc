@@ -1,0 +1,14 @@
+# Processing Template
+
+Template for creating maven-based Processing-sketches (https://processing.org) in your favorite IDE.
+
+Used processing-version: 4.3
+
+.Integrated libraries:
+* core
+* sound
+
+
+.Tested on the following operating systems:
+* Windows 10
+
